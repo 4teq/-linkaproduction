@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-icons": "^1.10.3",
+    "jquery": "^3.6.4",
+    "popper.js": "^1.16.1",
+    "scrollreveal": "^4.0.9"
+  }
+}
